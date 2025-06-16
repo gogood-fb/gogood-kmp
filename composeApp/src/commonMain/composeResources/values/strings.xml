@@ -1,0 +1,45 @@
+<resources>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_trips">Trips</string>
+    <string name="nav_favorite">Favorite</string>
+
+    <string name="category_all">Explore\nIt All</string>
+    <string name="category_culture">Culture &amp;\nHistory</string>
+    <string name="category_outdoor">Outdoor &amp;\nRecreation</string>
+    <string name="category_events">Attraction &amp;\nEvents</string>
+    <string name="category_dining">Food &amp;\nDining</string>
+    <string name="category_lodging">Lodging\n&amp; Rest</string>
+    <string name="category_safety">Environment\n&amp; Safety</string>
+    <string name="category_sustainability">Sustainability\n&amp; Growth</string>
+    <string name="category_experts">Local\nExperts</string>
+    <string name="category_support">Local\nSupport</string>
+
+    <string name="action_call">Call</string>
+    <string name="action_web">Website</string>
+    <string name="action_share">Share</string>
+    <string name="action_trip">Add to\nTrip</string>
+    <string name="action_fav">Save to\nFavorites</string>
+    <string name="action_map">Directions</string>
+    <string name="action_edit">Edit</string>
+
+    <string name="explore_title">Where would you\nlike to explore?</string>
+    <string name="explore_weather_unit">o C</string>
+    <string name="explore_weather_format">Precipitation: %1$d%\nHumidity: %2$d%</string>
+    <string name="explore_search">Search and explore %1$s</string>
+
+    <string name="trips_title">My Trips</string>
+    <string name="trips_new_button">New Trip</string>
+    <string name="trips_add_title">New Trip</string>
+    <string name="trips_add_save_button">Save</string>
+    <string name="trips_edit_title">Edit Trip</string>
+    <string name="trips_edit_save_button">Save</string>
+
+    <string name="faves_title">My Favorites</string>
+    <string name="faves_new_button">New Collection</string>
+    <string name="faves_add_title">New Collection</string>
+    <string name="faves_add_save_button">Save</string>
+    <string name="faves_edit_title">Edit Collection</string>
+    <string name="faves_edit_save_button">Save</string>
+
+    <string name="gallery_title">Photos from %1$s</string>
+</resources>

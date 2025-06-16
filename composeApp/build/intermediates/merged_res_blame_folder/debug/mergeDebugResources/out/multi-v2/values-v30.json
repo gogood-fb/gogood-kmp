@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.gogood.composeApp-mergeDebugResources-52:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/frankbiasi/.gradle/caches/transforms-4/0797196fc21c69cc858ccaf779a8a34a/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
